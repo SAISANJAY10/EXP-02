@@ -1,8 +1,8 @@
  ## EXP-02 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
  
- DEVELOPED BY:VIMALA RANI A
+ DEVELOPED BY: SAI SANJAY R
  
- REG NO:212223040240
+ REG NO: 212223040178
  # Aim:
  To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. Procedure a)
  Steps to Create a first S3 Bucket:
